@@ -1,0 +1,17 @@
+target 'aimm' do
+    pod 'BmobSDK'
+    pod 'FoldingTabBar'
+    pod 'MBProgressHUD'
+    pod 'FCAlertView', '~> 1.1.0'
+    pod 'APAvatarImageView'
+    pod "BAFluidView"
+    pod 'UICountingLabel'
+    pod 'AFNetworking', '~> 2.5.4'
+    pod 'Firebase/Core'
+    pod 'Firebase/Auth'
+    pod 'GoogleSignIn'
+    pod 'AWSMobileClient', '~> 2.6.6'
+    pod 'AWSDynamoDB', '~> 2.6.6'
+    pod 'FBSDKLoginKit'
+end
+

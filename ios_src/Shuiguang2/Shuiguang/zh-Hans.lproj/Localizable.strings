@@ -1,0 +1,114 @@
+/*
+ Localizable.strings
+ Shuiguang
+ 
+ Created by dehualai on 3/5/17.
+ Copyright © 2017 NanoMed. All rights reserved.
+ */
+
+"Welcome"="欢迎使用纳晶水光";
+"username"="用户名";
+"password"="密码";
+"Forget password"="忘记密码";
+"Login"="登录";
+"New user sign up"="新用户注册";
+"Please enter your email"="请填写您的邮箱";
+"We will send you a password reset via email"="我们会给您发送一封密码重置邮件";
+"Cancel"="取消";
+"OK"="确定";
+"Please fill up the form"="请填写每项内容";
+"Incorrect email format"="电子邮箱格式不正确";
+"Password not match"="两次输入的密码不一致";
+"Error: Incorrect username or password"="登录失败：用户名或密码不正确";
+"Error: Bad network connection"="登录失败：无网络信号";
+"Error: Login fail"="登录失败";
+"Email"="Email";
+"We have send a link to '%@' , please check and reset your password."="我们已发送一封邮件到'%@', 请查阅您的邮箱并重置密码";
+"The input '%@' is NOT a valid email address"="输入 '%@' 不是正确的邮箱格式";
+"email"="email";
+"confirm password"="确认密码";
+"Sign up"="注册";
+"Back to the login screen"="返回登录界面";
+"Error: username is occupied"="用户名已被占用";
+"Error: Email is occupied"="此email已被注册";
+"Error: Bad network connection"="无网络信号";
+"Error: Sign up fail"="注册失败";
+"Message"="信息";
+"Detection"="检测";
+"Detect Area:"="测试部位：";
+"Hand"="手部";
+"Hands"="手部";
+"Face"="脸部";
+"Eyes"="眼周";
+"Detect Time:"="测试时间：";
+"Before Nursing"="补水前";
+"After Nursing"="补水后";
+"START"="开始";
+"Please choose the correct detection AREA and TIME."="请先选择正确的检测部位与检测时间";
+"Please enable your bluetooth function on your phone."="请打开您手机的蓝牙功能";
+"Connecting the device."="正在链接检测仪。";
+"Ready to detect, press the device on your skin."="检测仪准备就绪，可以开始测量。";
+"Device not found. Please press the button on top of the device."="无法链接检测仪，请确保按下检测仪上方按钮。";
+"Detecting..."="正在检测中...";
+"The detection result for this time is : "="本次检测结果是 :";
+"History"="历史数据";
+"User Settings"="用户设置";
+"Edit"="修改";
+"Add"="添加";
+"Change Password"="更改密码";
+"current password"="当前密码";
+"new password"="新密码";
+"confirm new password"="确认新密码";
+"Failure"="失败";
+"Please try again"="请重新尝试";
+"The new passwords you put are NOT the same."="您两次输入的新密码不一致";
+"Success"="成功";
+"You can start using your new password now."="现在您可以开始使用新密码了";
+"The current password you put is NOT correct. Please try again"="您输入的当前密码与数据库记录不符，请重新尝试。";
+"Please select your date of birth, you cannot change the date of birth once it is setted."="请选择您的生日，一旦完成设定，生日信息将无法更改。";
+"Male"="男性";
+"male"="男性";
+"Female"="女性";
+"female"="女性";
+"Please tell us your gender. you cannot change the gender once it is setted."="请选择您的性别，一旦完成设定，性别信息将无法更改。";
+"Dry"="干燥";
+"Normal"="中性";
+"Oily"="油性";
+"dry"="干燥";
+"normal"="中性";
+"oily"="油性";
+"Please select your skin type."="请选择肤质";
+"Are you sure to logout?"="您即将退出登录，是否确定？";
+"Please enter your email address:"="请填写您的邮箱";
+"Please enter your phone number:"="请填写您的电话号码";
+"Phone Number"="电话号码";
+
+
+
+
+"What is Najing?"="纳晶是什么？";
+"It's applied for the field of transdermal drug delivery..."="纳晶纳米晶片是IT和材料学突破性进展在经皮给药领域的应用";
+"The Operation Procedure Of the Najing Bright and Moist"="纳晶水光护肤的操作流程";
+"1.face-cleaning, take out the nano-crystal chip..."="1卸妆清洁，取出纳米晶片.";
+"The Principle of the Nano-crystal Chip Branded by \"Najing\""="纳晶纳米晶片的原理";
+"The skin functinoned by Najing nano-crystal chips opening hundreds of channels..."="高效促渗纳晶纳米晶片接触的皮肤时...";
+"Dr. Xu : the Technological Leader of Nano-crystal chip in the world"="全球纳米晶片技术领军人物-徐百博士";
+"Dr. Xu, CEO of Natong, the world-class scientist and tech-leader..."="徐百博士，世界级科学家及技术领军人物。";
+"The Second Seminar about Accleratiing Penetrating and Clinical Application of Nano-tech"="第二届纳米技术促渗技术和临床应用研讨会";
+"More than forty clinical experts from ..."="40多位全国著名皮肤科相关专家相聚一堂...";
+"Experts opinion"="专家观点";
+"What do the doctors from top level hospital say?"="中国最顶级的皮肤科医生们如何看待水光针？";
+"Awards:"="纳晶奖项荣誉";
+"Tones of award that won by NanoTech"="纳晶获得了国内外诸多大奖。";
+"First publishment of Normative Product from Najing Officially"="纳晶官方首次公布正品纳晶的鉴别方法";
+"How to identify a real Najing product..."="杜绝纳米晶片仿品最好的方式：请在购买时认准持有纳晶技术专利的唯一正品。";
+
+"Login with WeChat"="使用微信登陆";
+"Login with Google"="使用谷歌登陆";
+"Login with Facebook"="使用脸书登陆";
+"Use without Login"="免登陆直接使用";
+"Please provide some basic information"="请填写如下基本信息";
+"Start Using App"="开始使用";
+"email"="电子邮箱";
+"please fill all information"="请填写所有信息";
+"invalid email format"="电子邮箱格式错误";

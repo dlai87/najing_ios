@@ -1,0 +1,40 @@
+{
+    "UserAgent": "MobileHub/1.0",
+    "Version": "1.0",
+    "CredentialsProvider": {
+        "CognitoIdentity": {
+            "Default": {
+                "PoolId": "us-east-2:fda88b91-ab5f-46ee-8013-e05642d4be74",
+                "Region": "us-east-2"
+            }
+        }
+    },
+    "IdentityManager": {
+        "Default": {}
+    },
+    "DynamoDBObjectMapper": {
+        "Default": {
+            "Region": "us-east-2"
+        }
+    },
+    "PinpointAnalytics": {
+        "Default": {
+            "AppId": "49842fe0f6cd4dbbb76ec306d11d2505",
+            "Region": "us-east-1"
+        }
+    },
+    "PinpointTargeting": {
+        "Default": {
+            "Region": "us-east-1"
+        }
+    },
+    "GoogleSignIn": {
+        "ClientId-WebApp": "469719428712-u22cfo3a47dmj4sad16eqhgeh1u3sf9q.apps.googleusercontent.com",
+        "ClientId-iOS": "469719428712-m4d26cl4u2e6hinl2tsqtjrh4lmpthgs.apps.googleusercontent.com",
+        "Permissions": "email,profile,openid"
+    },
+    "FacebookSignIn": {
+        "AppId": "563107064027654",
+        "Permissions": "public_profile"
+    }
+}

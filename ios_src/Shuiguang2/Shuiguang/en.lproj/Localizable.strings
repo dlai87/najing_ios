@@ -1,0 +1,105 @@
+/* 
+  Localizable.strings
+  Shuiguang
+
+  Created by dehualai on 3/5/17.
+  Copyright © 2017 NanoMed. All rights reserved.
+*/
+
+"Welcome"="Welcome";
+"username"="username";
+"password"="password";
+"Forget password"="Forget password";
+"Login"="Login";
+"New user sign up"="New user sign up";
+"Please enter your email"="Please enter your email";
+"We will send you a password reset via email"="We will send you a password reset via email";
+"Cancel"="Cancel";
+"OK"="OK";
+"Please fill up the form"="Please fill up the form";
+"Incorrect email format"="Incorrect email format";
+"Password not match"="Password not match";
+"Error: Incorrect username or password"="Error: Incorrect username or password";
+"Error: Bad network connection"="Error: Bad network connection";
+"Error: Login fail"="Error: Login fail";
+"Email"="Email";
+"We have send a link to '%@' , please check and reset your password."="We have send a link to '%@' , please check and reset your password.";
+"The input '%@' is NOT a valid email address"="The input '%@' is NOT a valid email address";
+"email"="email";
+"confirm password"="confirm password";
+"Sign up"="Sign up";
+"Back to the login screen"="Back to the login screen";
+"Incorrect email format"="Incorrect email format";
+"Password not match"="Password not match";
+"Error: username is occupied"="Error: username is occupied";
+"Error: Email is occupied"="Error: Email is occupied";
+"Error: Bad network connection"="Error: Bad network connection";
+"Error: Sign up fail"="Error: Sign up fail";
+"Message"="Message";
+"Detection"="Detection";
+"Detect Area:"="Detect Area:";
+"Hand"="Hand";
+"Hands"="Hands";
+"Face"="Face";
+"Eyes"="Eyes";
+"Detect Time:"="Detect Time:";
+"Before Nursing"="Before Nursing";
+"After Nursing"="After Nursing";
+"START"="START";
+"Please choose the correct detection AREA and TIME."="Please choose the correct detection AREA and TIME.";
+"Please enable your bluetooth function on your phone."="Please enable your bluetooth function on your phone.";
+"Connecting the device."="Connecting the device.";
+"Ready to detect, press the device on your skin."="Ready to detect, press the device on your skin.";
+"Device not found. Please press the button on top of the device."="Device not found. Please press the button on top of the device.";
+"Detecting..."="Detecting...";
+"The detection result for this time is : "="The detection result for this time is : ";
+"History"="History";
+"User Settings"="User Settings";
+"Edit"="Edit";
+"Add"="Add";
+"Change Password"="Change Password";
+"current password"="current password";
+"new password"="new password";
+"confirm new password"="confirm new password";
+"Failure"="Failure";
+"Please try again"="Please try again";
+"The new passwords you put are NOT the same."="The new passwords you put are NOT the same.";
+"Success"="Success";
+"You can start using your new password now."="You can start using your new password now.";
+"The current password you put is NOT correct. Please try again"="The current password you put is NOT correct. Please try again";
+"Please select your date of birth, you cannot change the date of birth once it is setted."="Please select your date of birth, you cannot change the date of birth once it is setted.";
+"Male"="Male";
+"male"="male";
+"Female"="Female";
+"female"="female";
+"Please tell us your gender. you cannot change the gender once it is setted."="Please tell us your gender. you cannot change the gender once it is setted.";
+"Dry"="Dry";
+"Normal"="Normal";
+"Oily"="Oily";
+"dry"="dry";
+"normal"="normal";
+"oily"="oily";
+"Please select your skin type."="Please select your skin type.";
+"User Settings"="User Settings"; 
+"Edit"="Edit";
+"Add"="Add";
+"Are you sure to logout?"="Are you sure to logout?";
+
+
+"What is Najing?"="What is Najing?";
+"It's applied for the field of transdermal drug delivery..."="It's applied for the field of transdermal drug delivery...";
+"The Operation Procedure Of the Najing Bright and Moist"="The Operation Procedure Of the Najing Bright and Moist";
+"1.face-cleaning, take out the nano-crystal chip..."="1.face-cleaning, take out the nano-crystal chip...";
+"The Principle of the Nano-crystal Chip Branded by \"Najing\""="The Principle of the Nano-crystal Chip Branded by \"Najing\"";
+"The skin functinoned by Najing nano-crystal chips opening hundreds of channels..."="The skin functinoned by Najing nano-crystal chips opening hundreds of channels...";
+"Dr. Xu : the Technological Leader of Nano-crystal chip in the world"="Dr. Xu : the Technological Leader of Nano-crystal chip in the world";
+"Dr. Xu, CEO of Natong, the world-class scientist and tech-leader..."="Dr. Xu, CEO of Natong, the world-class scientist and tech-leader...";
+"The Second Seminar about Accleratiing Penetrating and Clinical Application of Nano-tech"="The Second Seminar about Accleratiing Penetrating and Clinical Application of Nano-tech";
+"More than forty clinical experts from ..."="More than forty clinical experts from ...";
+"Experts opinion"="Experts opinion";
+"What do the doctors from top level hospital say?"="What do the doctors from top level hospital say?";
+"Awards:"="Awards:";
+"Tones of award that won by NanoTech"="Tones of award that won by NanoTech";
+"First publishment of Normative Product from Najing Officially"="First publishment of Normative Product from Najing Officially";
+"How to identify a real Najing product..."="How to identify a real Najing product...";
+

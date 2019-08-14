@@ -1,0 +1,138 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - APAvatarImageView (1.1.0)
+  - AWSAuthCore (2.6.10):
+    - AWSCore (= 2.6.10)
+  - AWSCore (2.6.10)
+  - AWSDynamoDB (2.6.10):
+    - AWSCore (= 2.6.10)
+  - AWSMobileClient (2.6.10):
+    - AWSAuthCore (= 2.6.10)
+  - BAFluidView (0.2.3)
+  - BmobSDK (1.7.2)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - FBSDKCoreKit (4.29.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.29.0):
+    - FBSDKCoreKit
+  - FCAlertView (1.1.2)
+  - Firebase/Auth (4.6.0):
+    - Firebase/Core
+    - FirebaseAuth (= 4.3.2)
+  - Firebase/Core (4.6.0):
+    - FirebaseAnalytics (= 4.0.5)
+    - FirebaseCore (= 4.0.11)
+  - FirebaseAnalytics (4.0.5):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+    - nanopb (~> 0.3)
+  - FirebaseAuth (4.3.2):
+    - FirebaseAnalytics (~> 4.0)
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (4.0.11):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (2.0.6)
+  - FoldingTabBar (1.0.8)
+  - GoogleSignIn (4.1.1):
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GoogleToolboxForMac/NSString+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/Defines (2.1.3)
+  - GoogleToolboxForMac/NSData+zlib (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.3):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.3)
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.3)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.3)
+  - GTMOAuth2 (1.1.5):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.12):
+    - GTMSessionFetcher/Full (= 1.1.12)
+  - GTMSessionFetcher/Core (1.1.12)
+  - GTMSessionFetcher/Full (1.1.12):
+    - GTMSessionFetcher/Core (= 1.1.12)
+  - MBProgressHUD (1.0.0)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - UICountingLabel (1.4.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.4)
+  - APAvatarImageView
+  - AWSDynamoDB (~> 2.6.6)
+  - AWSMobileClient (~> 2.6.6)
+  - BAFluidView
+  - BmobSDK
+  - FBSDKLoginKit
+  - FCAlertView (~> 1.1.0)
+  - Firebase/Auth
+  - Firebase/Core
+  - FoldingTabBar
+  - GoogleSignIn
+  - MBProgressHUD
+  - UICountingLabel
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  APAvatarImageView: 428dbd0631a150fe876f90bfd7eaa275a19b9209
+  AWSAuthCore: d5e52ee671c815bee92c8fc1077fb6bd526f026a
+  AWSCore: 5bb072a6b5b185f43ddbd239d6554d2f8a285ad2
+  AWSDynamoDB: 46c7d83862a8375fb824796dc60b04f9273c5d3f
+  AWSMobileClient: 6bdf1228aa064a9f2ee9db1486f09bfc6bc64c1e
+  BAFluidView: 5d84ef109831b97740f75b6d785e51f13fa08398
+  BmobSDK: e188cb31d6a8417ab668aee821da227d7512b865
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  FBSDKCoreKit: 6f139173dc63a1deaff4430a55f2fe5bb222d2af
+  FBSDKLoginKit: 56a057ca6822535ea0faa25f57a7c41edb697fd4
+  FCAlertView: 8c777212f654a8970b9b192904bf8b84d32582a2
+  Firebase: 27321a925aa85520618255a7c630859e0502ccbd
+  FirebaseAnalytics: 5b02a63ead2c3f0259cfc7f15e053e440587ecf8
+  FirebaseAuth: e58563adb207a43910a2ed87fecb9fa7d556df5a
+  FirebaseCore: 2a946ece8fbe3ce1fdeeb55324f273caade22df9
+  FirebaseInstanceID: 24958382a1011bba5aaff37e334e7a650b9118f5
+  FoldingTabBar: ff8d5dbb955b9b0d8280966e2a11dd71f854e155
+  GoogleSignIn: 3fdaa34a2ba04dbd7a25d7db39aecb0da98d5bdc
+  GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
+  GTMOAuth2: be83fd28d63ae3087e7d351b1f39c1a7e24ab6e7
+  GTMSessionFetcher: ebaa1f79a5366922c1735f1566901f50beba23b7
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  UICountingLabel: ed5ce5b6d5ef278ff40d99cfa49577a30ab0c87b
+
+PODFILE CHECKSUM: 317730852c1202a573a25db8e7388e8e9c089b27
+
+COCOAPODS: 1.2.0

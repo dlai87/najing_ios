@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="16G29" minimumToolsVersion="Xcode 7.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="DBDetection" representedClassName="DBDetection" syncable="YES">
+        <attribute name="body_part" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="detect_date_time" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nursing_status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transmission_status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="value" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="DBUser" representedClassName="DBUser" syncable="YES">
+        <attribute name="avatar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_of_birth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="facebook" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="google" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone_number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="skin_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transmission_status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wechat" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DBDetection" positionX="-54" positionY="54" width="128" height="120"/>
+        <element name="DBUser" positionX="216" positionY="-54" width="128" height="223"/>
+    </elements>
+</model>
