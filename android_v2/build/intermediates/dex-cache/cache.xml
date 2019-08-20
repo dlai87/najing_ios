@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/1c80fe9733e1992927462504181b48eae42fd780/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_8dd0989510a0767bfd0ed513628c9af838fadf6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_920fbe55b2cd1c918a8167c555b09434ca44b1ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_78bad9b2efa2d608f70493f85ecdd126ac62bfea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0056855a9357c72e2b5d4b8b6c28ee920c805f29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_963039e662e50e133f09ce6bbb9143855c50215b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/586ac29fa216d58cdae96fa506dc7904d2116d6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_0733d001380078d5058ac779e892af4d832ccdb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0296e1580190a7af751bcfe390e27d96855c68a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4abc4483d127db1f2c307631a66bfdfd65a732b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_297c954901df1ea87a6fd053456ed9746472e05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/b78d41003b7c9d436870ead48fa7a8dddaa3f3a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ec1d846000db2b979dac2159584f027195a8174">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_dd30b56751343ed7cada3fd523eb055945bd4bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/908f0999f84f4afbb6372b197267a7a51cbf2a88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fac706f45908c33ced1c4890e0b5f5e371c0ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/e911358350d77b18f6a71f4f6f9c3094f6879164/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51946b4ca8e38b3be550798723faf47dacb3a444">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5254c17bb961466e867d342b5091bc874e98c345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0e064ad7e18c095eb46caa2ddf0e5956f88e6ff8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_0f180456317597592a333c52a7ffa0ca726efeeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/9ccdf1888f8e928f31cdcea5473ac1e401396f1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_b0b77b4fa29952559604a8f2e8cc1418b0bf7775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/bolts-applinks-1.4.0_535b6b5e6a8de07e2933f1307709a58b6f88bc8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-kms/2.6.31/b630baaeb988af984321e1f8c6f4b3a8fd0dce1d/aws-android-sdk-kms-2.6.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b630baaeb988af984321e1f8c6f4b3a8fd0dce1d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-kms-2.6.31_6a8970f54f112ed7cf9d9d2754b9190a49e4295d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.6.31/22b9f301e06849d5ecf5b580a6d943328f05ec11/aws-android-sdk-core-2.6.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22b9f301e06849d5ecf5b580a6d943328f05ec11">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-core-2.6.31_166c2d502738864134123ca4f33734758ac7f227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/21169e883b9018af91f965c1ce4c50febf5959ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_21b1b97e4d71e7d9017dd29a97ed235d3640db21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/okhttp-3.3.1_829fb9139ed7975f21fba4135dafa81b8bd893ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/f2e6df7357798a9ccd9da1c255fddde62c638754/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f53f8a0a9e42dc61559c55c9c97a1a16f0bffa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/5d9e9aa0a7ab7d22a255aed070285182b26c260e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_68333d46abaeed389c0022d39d55d79e055a3971/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/00fd7458c7a7aff3a25114b165f23095e6b9ce56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16d8dd533792aca4c015674a378a4f0fadf9503f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_5cd5ae91c6119bb7995a6492d615a1fc0d3e6290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0ba228ec60dda40a5458a5e94719780b62ee213f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_477c7c308b9202e6346aeafbc4f6653f3f958d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.3.8/ab6925cacb6b34a81bfee842ba05824a4cf9a429/aws-android-sdk-cognito-2.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab6925cacb6b34a81bfee842ba05824a4cf9a429">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.3.8_9f4f34c58a791d5d34f158ec3fcd167de27c4217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/aeb842512f898d1e994ef7e0b22f967aa1b30501/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_89e731582a0cec90e2f67f0f6086bc6d4bc9e4db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/1fd8647e1b1b0cb6689ed0b133c0d37f23a555bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_3f6dbc04a0dd84ae3d8f87475050780a5eb96d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/gson-2.2.4_a94aa5365f8ddc53dc2f21d8bc7315d01b6d488c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/d0dc8856f788475e901fd3d99aee983f7724602b/MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0dc8856f788475e901fd3d99aee983f7724602b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/MPAndroidChart-v3.0.1_379a3bbe3ba46452aa159d0a05cf754c1009deb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.6.31/144045c85e7a10f6c8c4ae97551006a64362d285/aws-android-sdk-ddb-mapper-2.6.31.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="144045c85e7a10f6c8c4ae97551006a64362d285">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-mapper-2.6.31_063d10a8335ce6e8555d57f799b24fcb2725de33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/9ded71f45f1c254f0b163b272926c565beb75ed7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_34b3a3496f20e32536d489b9c034ce115ebd6def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/80c349bcb7fe04e628d96359eafd9affa48c1780/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_e4eb98fb6bde79234d8860e44351587063b492bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/298710571d223c15a7c1f3d3451a908701b80b8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59f4c1b4cef011dcfcc19d3d9088473dcbbf0b03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf/1.0.0/d26b361cf5b7e61d14f1836460d7b390b5b9953e/aws-android-sdk-cognitoidentityprovider-asf-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d26b361cf5b7e61d14f1836460d7b390b5b9953e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognitoidentityprovider-asf-1.0.0_772309ecca7e15481d1102f86558b85e49c3810c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.6.31/4dd792b7d206f7ce40ac45cad9c8d8ada73739c5/aws-android-sdk-s3-2.6.31.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4dd792b7d206f7ce40ac45cad9c8d8ada73739c5">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.6.31_0bc98f9d3263e40d11c798ca54955b32a6c08d63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/8891909807c21c3a910fd8720a680eff76536ea9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd09414e01a140ddfcf051778f0fdd2c502866e5">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efed158c15b29dc06e3943448e9eb59a4b5dec4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/7690b0b5a853ccb5d934486e83bcaf8de4e894af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_82fd6a8bab8b4ada01fdd37a4b1ecfc1e1150845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/2cd6cdf68b28331ab7421cf2f45e8a3329368c7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f93f0fa8fee7e2062642d16ac3d286704fe94be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.6.31/4dd792b7d206f7ce40ac45cad9c8d8ada73739c5/aws-android-sdk-s3-2.6.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4dd792b7d206f7ce40ac45cad9c8d8ada73739c5">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-s3-2.6.31_0bc98f9d3263e40d11c798ca54955b32a6c08d63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/support-annotations-25.4.0_78bad9b2efa2d608f70493f85ecdd126ac62bfea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/586ac29fa216d58cdae96fa506dc7904d2116d6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0733d001380078d5058ac779e892af4d832ccdb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/06007bfb91c724e81a6d51952d91f2f42b056177/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a6a058b29e38bb80540d41afa71711727de3e19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/rxjava-1.1.6_920fbe55b2cd1c918a8167c555b09434ca44b1ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.6.31/ede5074c4ed84be2afb68691301ff6095abde95d/aws-android-sdk-ddb-2.6.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ede5074c4ed84be2afb68691301ff6095abde95d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-ddb-2.6.31_fc3cf49e47b3aa5ee2df635ae84b47be0de9d0cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/d0dc8856f788475e901fd3d99aee983f7724602b/MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0dc8856f788475e901fd3d99aee983f7724602b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v3.0.1_379a3bbe3ba46452aa159d0a05cf754c1009deb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0ba228ec60dda40a5458a5e94719780b62ee213f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_477c7c308b9202e6346aeafbc4f6653f3f958d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/66e14e817645f419ff3676abbdfddeef40e2806c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_d4d16c0f092a09b01ceb7a09d7f4032c8020b81c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/1c80fe9733e1992927462504181b48eae42fd780/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8dd0989510a0767bfd0ed513628c9af838fadf6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/525a78fe4f105df408fde256e5cc883abc09263c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50229116d50d9475f4a9fc4d497845aa18e9518f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76f009f31dff1dc1ac01940ff8b82bfa6a679e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/9ccdf1888f8e928f31cdcea5473ac1e401396f1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0b77b4fa29952559604a8f2e8cc1418b0bf7775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-pinpoint/2.3.8/23b3a92d0444d8f87ee67b0b76e8f6947905413e/aws-android-sdk-pinpoint-2.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="23b3a92d0444d8f87ee67b0b76e8f6947905413e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-pinpoint-2.3.8_ffb8a625624fbf4483fefe6f104814d2ddd73420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/5d9e9aa0a7ab7d22a255aed070285182b26c260e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68333d46abaeed389c0022d39d55d79e055a3971/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/f2e6df7357798a9ccd9da1c255fddde62c638754/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_6f53f8a0a9e42dc61559c55c9c97a1a16f0bffa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/908f0999f84f4afbb6372b197267a7a51cbf2a88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_3fac706f45908c33ced1c4890e0b5f5e371c0ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_829fb9139ed7975f21fba4135dafa81b8bd893ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/a5f1cf2b9c1d0d344fec107a4c3c3a2d0472682f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_4c6139886a25bd5c692111c7a9bb79360acd2886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/1fd8647e1b1b0cb6689ed0b133c0d37f23a555bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f6dbc04a0dd84ae3d8f87475050780a5eb96d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_535b6b5e6a8de07e2933f1307709a58b6f88bc8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/aeb842512f898d1e994ef7e0b22f967aa1b30501/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89e731582a0cec90e2f67f0f6086bc6d4bc9e4db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/8a06f8849fcb8851fd0f49fabc19fb920c3a2b83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9826968f06da318e841ce81afa0dd235c1bad09b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_6c22e281e4b99d0a90c149da4466906e60223b03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-pinpoint/2.3.8/23b3a92d0444d8f87ee67b0b76e8f6947905413e/aws-android-sdk-pinpoint-2.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="23b3a92d0444d8f87ee67b0b76e8f6947905413e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-pinpoint-2.3.8_ffb8a625624fbf4483fefe6f104814d2ddd73420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/9ded71f45f1c254f0b163b272926c565beb75ed7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34b3a3496f20e32536d489b9c034ce115ebd6def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.3.8/ab6925cacb6b34a81bfee842ba05824a4cf9a429/aws-android-sdk-cognito-2.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab6925cacb6b34a81bfee842ba05824a4cf9a429">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-cognito-2.3.8_9f4f34c58a791d5d34f158ec3fcd167de27c4217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/library-2.4.0_84efd293ad42e074563039efc05f92a2a5ec99c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/d965fda815688087124c5be72415dbb6ac3de222/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c187f5fc4f47d1abb8839d124591502ece9b7a37">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4af7744ce3dbc2d1c11c60cc7fd7db204a2aec04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf/1.0.0/d26b361cf5b7e61d14f1836460d7b390b5b9953e/aws-android-sdk-cognitoidentityprovider-asf-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d26b361cf5b7e61d14f1836460d7b390b5b9953e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-cognitoidentityprovider-asf-1.0.0_772309ecca7e15481d1102f86558b85e49c3810c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/34c19e53ddff33393fd3c45887172eed24e94190/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_fcb3ab82a3097b29c5d1712c89973aae5656c1f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/5.4.0/8bef9a62e35f2c73bb891dd7f383d7baad86db14/wechat-sdk-android-with-mta-5.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8bef9a62e35f2c73bb891dd7f383d7baad86db14">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/wechat-sdk-android-with-mta-5.4.0_9c88ffd787126cd0418c36a9e3e9e58a44c5bc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/298710571d223c15a7c1f3d3451a908701b80b8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_59f4c1b4cef011dcfcc19d3d9088473dcbbf0b03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/2eea73074b715e005127914a377242e0b7f3755c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a256a7b18b6e8678a78192b7187d2943973f953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/80c349bcb7fe04e628d96359eafd9affa48c1780/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4eb98fb6bde79234d8860e44351587063b492bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/lib-manipulation-3.1.0_82db1fc07e42ba6a1b702ffb73b3ff246ddf72a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/00fd7458c7a7aff3a25114b165f23095e6b9ce56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16d8dd533792aca4c015674a378a4f0fadf9503f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cd5ae91c6119bb7995a6492d615a1fc0d3e6290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/7690b0b5a853ccb5d934486e83bcaf8de4e894af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82fd6a8bab8b4ada01fdd37a4b1ecfc1e1150845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/2195a3cc895cfd964c5975bef109ae41ea75e6a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_e4667d9c35858a8a253ecfff9c89d772c2276d55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/2cd6cdf68b28331ab7421cf2f45e8a3329368c7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_6f93f0fa8fee7e2062642d16ac3d286704fe94be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/a131ad3c9843d36340ebd9d16951b66d15d7282d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8190861e323934dad89d5e6b830ea66878c11970">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd48809cd422e6633756ea92eddd27d5e73f5948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/f05225e249340e8b0202791ddbc6ff2ea7e76286/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b7300e7bf28be0e7edfdb210b706388abfa4e22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/d965fda815688087124c5be72415dbb6ac3de222/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c187f5fc4f47d1abb8839d124591502ece9b7a37">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_4af7744ce3dbc2d1c11c60cc7fd7db204a2aec04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.6.31/ede5074c4ed84be2afb68691301ff6095abde95d/aws-android-sdk-ddb-2.6.31.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ede5074c4ed84be2afb68691301ff6095abde95d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-2.6.31_fc3cf49e47b3aa5ee2df635ae84b47be0de9d0cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_5820e4a95ceb04608757699a23b6edda613024d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/dcedd2680ec2c66ff77f198bb60d8257782b66dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2edefdc6f65b8781e358622a9efe17f605f468ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/06007bfb91c724e81a6d51952d91f2f42b056177/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_4a6a058b29e38bb80540d41afa71711727de3e19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/BmobSDK_3.5.0_20160630.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/BmobSDK_3.5.0_20160630_b4a7c6ee97b5655175a917d4284f239726b8b647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/525a78fe4f105df408fde256e5cc883abc09263c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50229116d50d9475f4a9fc4d497845aa18e9518f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_76f009f31dff1dc1ac01940ff8b82bfa6a679e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/okio-1.7.0_838cb48e7860ae75a4db00f369170b611408dbba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/66e14e817645f419ff3676abbdfddeef40e2806c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4d16c0f092a09b01ceb7a09d7f4032c8020b81c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-1.2.0_81e7d96e4f6d0cbe65b79b34180c9e91db7ec611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/3167551900bf0ae599171cce740393dd1df84a18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_016b07179ff843909608a3ecd4a5f8c5790113a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/d1ff743c3b79d4b1b726d96d3903ceaec9136e70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb521ea2e778d1afd7fd24cde8e72534a7058fcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/rxandroid-1.2.0_81e7d96e4f6d0cbe65b79b34180c9e91db7ec611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/51fb6adee8b28a450d11d663649edb23fc63ef51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22d30288fb9c1cd8b350855d2bd2daadd41a950e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43b57112d9bb9c82eb66f0e696361ff22b357af1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_054c2de056eedf287f62b89c8afa54b8bbdbc847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_84efd293ad42e074563039efc05f92a2a5ec99c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/34c19e53ddff33393fd3c45887172eed24e94190/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcb3ab82a3097b29c5d1712c89973aae5656c1f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/7df009a4dbee4368aa7579b892871c21c96f2169/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_79904cd52aadb98d0505b0e1bb644c10073937d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/419661e28449cda7fc40ecf1a7be2014bdcd244c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="998bd2fa7d38a80c80c41b1f98c0f586efb71877">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_4963da5f1bb3d2f41d9d01be7f195502c6ae9dc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/a5f1cf2b9c1d0d344fec107a4c3c3a2d0472682f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c6139886a25bd5c692111c7a9bb79360acd2886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/2eea73074b715e005127914a377242e0b7f3755c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_2a256a7b18b6e8678a78192b7187d2943973f953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/dcedd2680ec2c66ff77f198bb60d8257782b66dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_2edefdc6f65b8781e358622a9efe17f605f468ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/2195a3cc895cfd964c5975bef109ae41ea75e6a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4667d9c35858a8a253ecfff9c89d772c2276d55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/8a06f8849fcb8851fd0f49fabc19fb920c3a2b83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9826968f06da318e841ce81afa0dd235c1bad09b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c22e281e4b99d0a90c149da4466906e60223b03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/5.4.0/8bef9a62e35f2c73bb891dd7f383d7baad86db14/wechat-sdk-android-with-mta-5.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8bef9a62e35f2c73bb891dd7f383d7baad86db14">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/wechat-sdk-android-with-mta-5.4.0_9c88ffd787126cd0418c36a9e3e9e58a44c5bc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18e27f9b503ce1dd83553ef24971a938f71dd6a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_39b77698523ecef8288effb7428e4180bdc11dcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/a131ad3c9843d36340ebd9d16951b66d15d7282d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8190861e323934dad89d5e6b830ea66878c11970">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_dd48809cd422e6633756ea92eddd27d5e73f5948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/f05225e249340e8b0202791ddbc6ff2ea7e76286/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_7b7300e7bf28be0e7edfdb210b706388abfa4e22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/lib-manipulation-3.1.0_82db1fc07e42ba6a1b702ffb73b3ff246ddf72a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/b78d41003b7c9d436870ead48fa7a8dddaa3f3a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ec1d846000db2b979dac2159584f027195a8174">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd30b56751343ed7cada3fd523eb055945bd4bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.6.31/22b9f301e06849d5ecf5b580a6d943328f05ec11/aws-android-sdk-core-2.6.31.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22b9f301e06849d5ecf5b580a6d943328f05ec11">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.6.31_166c2d502738864134123ca4f33734758ac7f227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/lib-core-3.1.0_0b5e89996330cf0c28c3dab44c40ea9fbf6ea801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.7.0_838cb48e7860ae75a4db00f369170b611408dbba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/gson-2.6.2_5820e4a95ceb04608757699a23b6edda613024d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/constraint-layout-solver-1.0.2_297c954901df1ea87a6fd053456ed9746472e05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a27223e6826b78f728ebe60e1c513a78253e8516">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_144f4d3757571b44f5c0d95c300c9067f0de410c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/7df009a4dbee4368aa7579b892871c21c96f2169/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79904cd52aadb98d0505b0e1bb644c10073937d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/21169e883b9018af91f965c1ce4c50febf5959ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21b1b97e4d71e7d9017dd29a97ed235d3640db21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-kms/2.6.31/b630baaeb988af984321e1f8c6f4b3a8fd0dce1d/aws-android-sdk-kms-2.6.31.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b630baaeb988af984321e1f8c6f4b3a8fd0dce1d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-kms-2.6.31_6a8970f54f112ed7cf9d9d2754b9190a49e4295d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0056855a9357c72e2b5d4b8b6c28ee920c805f29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_963039e662e50e133f09ce6bbb9143855c50215b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/d1ff743c3b79d4b1b726d96d3903ceaec9136e70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_bb521ea2e778d1afd7fd24cde8e72534a7058fcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0296e1580190a7af751bcfe390e27d96855c68a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_4abc4483d127db1f2c307631a66bfdfd65a732b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/e911358350d77b18f6a71f4f6f9c3094f6879164/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51946b4ca8e38b3be550798723faf47dacb3a444">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_5254c17bb961466e867d342b5091bc874e98c345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/3167551900bf0ae599171cce740393dd1df84a18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_016b07179ff843909608a3ecd4a5f8c5790113a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/0e064ad7e18c095eb46caa2ddf0e5956f88e6ff8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f180456317597592a333c52a7ffa0ca726efeeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/8891909807c21c3a910fd8720a680eff76536ea9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd09414e01a140ddfcf051778f0fdd2c502866e5">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_efed158c15b29dc06e3943448e9eb59a4b5dec4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/51fb6adee8b28a450d11d663649edb23fc63ef51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22d30288fb9c1cd8b350855d2bd2daadd41a950e">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_43b57112d9bb9c82eb66f0e696361ff22b357af1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/libs/BmobSDK_3.5.0_20160630.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/BmobSDK_3.5.0_20160630_b4a7c6ee97b5655175a917d4284f239726b8b647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.6.31/144045c85e7a10f6c8c4ae97551006a64362d285/aws-android-sdk-ddb-mapper-2.6.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="144045c85e7a10f6c8c4ae97551006a64362d285">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/aws-android-sdk-ddb-mapper-2.6.31_063d10a8335ce6e8555d57f799b24fcb2725de33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_a94aa5365f8ddc53dc2f21d8bc7315d01b6d488c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/bolts-tasks-1.4.0_054c2de056eedf287f62b89c8afa54b8bbdbc847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/ba7c931348728c4c76978a08f76d04a15d9c2229/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/classes_18e27f9b503ce1dd83553ef24971a938f71dd6a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.android/build-cache/419661e28449cda7fc40ecf1a7be2014bdcd244c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="998bd2fa7d38a80c80c41b1f98c0f586efb71877">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4963da5f1bb3d2f41d9d01be7f195502c6ae9dc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dehualai/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/dehualai/Dropbox (AiCure)/DehuaWorkSpace/PersonalProject/Najing/android_v2/app/build/intermediates/transforms/dex/release/folders/1000/10/lib-core-3.1.0_0b5e89996330cf0c28c3dab44c40ea9fbf6ea801/classes.dex" />
+    </item>
+
+</items>

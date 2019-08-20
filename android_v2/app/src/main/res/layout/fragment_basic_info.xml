@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bg_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="600"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.mlz.shuiguang.util.widget.TextView.NJTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_h_5"
+            android:text="@string/please_provide_some_basic_info"
+            android:layout_marginBottom="@dimen/margin_3"/>
+
+        <LinearLayout
+            android:id="@+id/username_layout"
+            android:layout_width="@dimen/edit_text_w"
+            android:layout_height="@dimen/edit_text_h"
+            android:background="@color/transparent"
+            android:elevation="@dimen/elevation_1"
+            android:orientation="horizontal"
+            android:padding="2dp">
+
+            <LinearLayout
+                android:id="@+id/username_icon"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/tap_bar_color"
+                android:elevation="@dimen/elevation_2"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="@dimen/img_username_icon_w"
+                    android:layout_height="@dimen/img_username_icon_h"
+                    android:background="@drawable/username" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5"
+                android:background="@color/white"
+                android:elevation="@dimen/elevation_1"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <com.mlz.shuiguang.util.widget.EditText.NJEditText
+                    android:id="@+id/input_username"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/margin_0"
+                    android:background="@color/transparent"
+                    android:ems="10"
+                    android:gravity="left|center_vertical"
+                    android:hint="@string/username"
+                    android:textColor="@color/text_gray_dark"
+                    android:textColorHint="@color/text_gray_light"
+                    android:textSize="@dimen/text_h_5">
+
+                    <requestFocus />
+                </com.mlz.shuiguang.util.widget.EditText.NJEditText>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/email_layout"
+            android:layout_width="@dimen/edit_text_w"
+            android:layout_height="@dimen/edit_text_h"
+            android:layout_marginTop="@dimen/margin_1"
+            android:background="@color/transparent"
+            android:elevation="@dimen/elevation_1"
+            android:orientation="horizontal"
+            android:padding="2dp">
+
+            <LinearLayout
+                android:id="@+id/email_icon"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/tap_bar_color"
+                android:elevation="@dimen/elevation_2"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="@dimen/img_username_icon_w"
+                    android:layout_height="@dimen/img_username_icon_h"
+                    android:background="@drawable/email"
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5"
+                android:background="@color/white"
+                android:elevation="@dimen/elevation_1"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <com.mlz.shuiguang.util.widget.EditText.NJEditText
+                    android:id="@+id/input_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/margin_0"
+                    android:background="@color/transparent"
+                    android:ems="10"
+                    android:gravity="left|center_vertical"
+                    android:hint="@string/email_address"
+                    android:textColor="@color/text_gray_dark"
+                    android:textColorHint="@color/text_gray_light"
+                    android:textSize="@dimen/text_h_5" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <com.mlz.shuiguang.util.widget.button.NJButton
+            android:id="@+id/start_using_app_button"
+            android:layout_width="@dimen/edit_text_w"
+            android:layout_height="@dimen/edit_text_h"
+            android:layout_marginTop="@dimen/margin_1"
+            android:elevation="@dimen/elevation_1"
+            android:text="@string/start_using_app"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_h_5" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.mlz.shuiguang.util.widget.button.NJButton
+            android:id="@+id/back_to_login_button"
+            android:layout_width="@dimen/button_w_5"
+            android:layout_height="@dimen/button_h_6"
+            android:text="@string/cancel_sign_up"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_h_6"
+            app:button_theme="1" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

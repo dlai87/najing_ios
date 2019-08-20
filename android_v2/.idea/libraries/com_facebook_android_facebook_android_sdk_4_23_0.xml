@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.facebook.android:facebook-android-sdk-4.23.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b9eacb0af8af0b2b86bbdf9a6c3487c5ae4ee925/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b9eacb0af8af0b2b86bbdf9a6c3487c5ae4ee925/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

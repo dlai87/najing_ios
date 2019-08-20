@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bg_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color_light_blue"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="300"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="@dimen/logo_full_w"
+            android:layout_height="@dimen/logo_full_h"
+            android:layout_marginBottom="@dimen/margin_0"
+            android:background="@drawable/najing_logo_full" />
+
+        <com.mlz.shuiguang.util.widget.TextView.NJTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="@dimen/elevation_1"
+            android:text="@string/welcome"
+            android:textColor="@color/text_gray_dark"
+            android:textSize="@dimen/text_h_2" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="300"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="@dimen/button_w_3"
+            android:layout_height="@dimen/button_h_6"
+            android:gravity="left|center_vertical">
+
+            <Button
+                android:id="@+id/wechat_login_button"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/margin_0"
+                android:background="@color/button_color"
+                android:gravity="right|center_vertical"
+                android:paddingRight="@dimen/margin_1"
+                android:text="@string/login_with_wechat"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_h_6" />
+
+            <ImageView
+                android:layout_width="@dimen/button_back"
+                android:layout_height="@dimen/button_back"
+                android:layout_marginLeft="@dimen/margin_0"
+                android:background="@drawable/logo_wechat"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/button_w_3"
+            android:layout_height="@dimen/button_h_6"
+            android:gravity="left|center_vertical">
+
+            <Button
+                android:id="@+id/google_login_button"
+                android:layout_width="@dimen/button_w_3"
+                android:layout_height="@dimen/button_h_6"
+                android:layout_marginBottom="@dimen/margin_0"
+                android:background="@color/button_color"
+                android:gravity="right|center_vertical"
+                android:paddingRight="@dimen/margin_1"
+                android:text="@string/login_with_google"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_h_6" />
+
+            <ImageView
+                android:layout_width="@dimen/button_back"
+                android:layout_height="@dimen/button_back"
+                android:layout_marginLeft="@dimen/margin_0"
+                android:background="@drawable/logo_google"/>
+
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="@dimen/button_w_3"
+            android:layout_height="@dimen/button_h_6"
+            android:gravity="left|center_vertical">
+
+            <Button
+                android:id="@+id/facebook_login_button"
+                android:layout_width="@dimen/button_w_3"
+                android:layout_height="@dimen/button_h_6"
+                android:layout_marginBottom="@dimen/margin_0"
+                android:background="@color/button_color"
+                android:gravity="right|center_vertical"
+                android:paddingRight="@dimen/margin_1"
+                android:text="@string/login_with_facebook"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_h_6" />
+
+
+            <ImageView
+                android:layout_width="@dimen/button_back"
+                android:layout_height="@dimen/button_back"
+                android:layout_marginLeft="@dimen/margin_0"
+                android:background="@drawable/logo_facebook"/>
+
+
+        </RelativeLayout>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.mlz.shuiguang.util.widget.button.NJButton
+            android:id="@+id/without_login_button"
+            android:layout_width="@dimen/button_w_5"
+            android:layout_height="@dimen/button_h_6"
+            android:text="@string/use_without_login"
+            android:textColor="@color/text_gray_dark"
+            android:textSize="@dimen/text_h_6"
+            app:button_theme="1" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

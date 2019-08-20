@@ -1,0 +1,82 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">33dp</dimen>
+    <dimen name="activity_vertical_margin">33dp</dimen>
+    <dimen name="margin_0">11dp</dimen>
+    <dimen name="margin_1">33dp</dimen>
+    <dimen name="margin_2">65dp</dimen>
+    <dimen name="margin_3">97dp</dimen>
+    <dimen name="margin_4">129dp</dimen>
+
+    <dimen name="text_h_0">137dp</dimen>
+    <dimen name="text_h_1">69dp</dimen>
+    <dimen name="text_h_2">55dp</dimen>
+    <dimen name="text_h_3">47dp</dimen>
+    <dimen name="text_h_3a">45dp</dimen>
+    <dimen name="text_h_4">41dp</dimen>
+    <dimen name="text_h_4a">37dp</dimen>
+    <dimen name="text_h_5">35dp</dimen>
+    <dimen name="text_h_5a">33dp</dimen>
+    <dimen name="text_h_6">29dp</dimen>
+    <dimen name="text_h_7">25dp</dimen>
+    <dimen name="text_h_8">21dp</dimen>
+
+    <dimen name="tab_bar_inner_h">111dp</dimen>
+    <dimen name="tab_bar_outter_h">177dp</dimen>
+    <dimen name="tab_bar_horizontal_margin">33dp</dimen>
+
+    <dimen name="button_w_0">681dp</dimen>
+    <dimen name="button_w_1">611dp</dimen>
+    <dimen name="button_w_2">541dp</dimen>
+    <dimen name="button_w_3">501dp</dimen>
+    <dimen name="button_w_4">491dp</dimen>
+    <dimen name="button_w_5">453dp</dimen>
+    <dimen name="button_w_6">411dp</dimen>
+    <dimen name="button_w_7">383dp</dimen>
+    <dimen name="button_w_8">351dp</dimen>
+    <dimen name="button_w_9">313dp</dimen>
+    <dimen name="button_w_10">261dp</dimen>
+    <dimen name="button_w_11">203dp</dimen>
+    <dimen name="button_w_12">193dp</dimen>
+    <dimen name="button_back">81dp</dimen>
+
+
+    <dimen name="button_h_1">323dp</dimen>
+    <dimen name="button_h_2">183dp</dimen>
+    <dimen name="button_h_3">153dp</dimen>
+    <dimen name="button_h_4">141dp</dimen>
+    <dimen name="button_h_5">123dp</dimen>
+    <dimen name="button_h_6">105dp</dimen>
+    <dimen name="button_h_7">91dp</dimen>
+
+    <dimen name="wave_meter_w">521dp</dimen>
+    <dimen name="line_chart_h">417dp</dimen>
+
+
+    <dimen name="list_cell_ui_option_h">161dp</dimen>
+    <dimen name="list_cell_profile_h">91dp</dimen>
+
+
+    <dimen name="edit_text_w">501dp</dimen>
+    <dimen name="edit_text_h">101dp</dimen>
+    <dimen name="img_username_icon_w">51dp</dimen>
+    <dimen name="img_username_icon_h">51dp</dimen>
+
+    <dimen name="elevation_1">17dp</dimen>
+    <dimen name="elevation_2">41dp</dimen>
+
+    <dimen name="fragment_user_profile_h">301dp</dimen>
+    <dimen name="profile_image_h">193dp</dimen>
+    <dimen name="profile_cell_content_w">481dp</dimen>
+
+    <dimen name="topbar_icon">61dp</dimen>
+    <dimen name="profile_indicator_icon">51dp</dimen>
+
+    <dimen name="detect_bar_h">97dp</dimen>
+    <dimen name="dialog_width">645dp</dimen>
+
+    <dimen name="logo_full_w">203dp</dimen>
+    <dimen name="logo_full_h">101dp</dimen>
+
+
+</resources>

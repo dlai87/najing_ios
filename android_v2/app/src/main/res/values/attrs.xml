@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NJButton">
+        <attr name="button_theme" format="integer"/>
+        <attr name="corner_radius" format="float" />
+        <attr name="button_height" format="dimension" />
+        <attr name="border_width" format="integer" />
+        <attr name="background_color" format="color" />
+        <attr name="border_color" format="color" />
+        <attr name="background_color_pressed" format="color" />
+    </declare-styleable>
+
+</resources>

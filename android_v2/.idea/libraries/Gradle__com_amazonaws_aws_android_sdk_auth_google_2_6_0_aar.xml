@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-android-sdk-auth-google:2.6.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/419661e28449cda7fc40ecf1a7be2014bdcd244c/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/419661e28449cda7fc40ecf1a7be2014bdcd244c/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

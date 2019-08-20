@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bg_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color">
+
+
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- header -->
+        <LinearLayout
+            android:id="@+id/header_layout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="11"
+            android:background="@color/gradient_color"
+            android:elevation="@dimen/elevation_1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="left|center_vertical">
+
+
+            </RelativeLayout>
+
+            <com.mlz.shuiguang.util.widget.TextView.NJTextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6"
+                android:gravity="center"
+                android:text="@string/detect_cap"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_h_3a"
+                android:textStyle="bold"
+
+                />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2">
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+        <!-- body -->
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="77">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/margin_2"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <com.mlz.shuiguang.util.widget.TextView.NJTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/detection_part"
+                        android:textColor="@color/text_gray_dark"
+                        android:textSize="@dimen/text_h_5" />
+                </LinearLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/margin_1"
+                    android:paddingRight="@dimen/margin_1">
+
+                    <com.mlz.shuiguang.util.widget.button.NJButton
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="false"
+                        app:button_theme="5" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/detect_bar_h"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:layout_centerVertical="true">
+
+
+                        <com.mlz.shuiguang.util.widget.button.NJButton
+                            android:id="@+id/handButton"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:text="@string/hand"
+                            android:textColor="@color/text_gray_dark"
+                            android:textSize="@dimen/text_h_5"
+                            app:button_theme="1" />
+
+                        <com.mlz.shuiguang.util.widget.button.NJButton
+                            android:id="@+id/faceButton"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:text="@string/face"
+                            android:textColor="@color/text_gray_dark"
+                            android:textSize="@dimen/text_h_5"
+                            app:button_theme="1" />
+
+                        <com.mlz.shuiguang.util.widget.button.NJButton
+                            android:id="@+id/eyesButton"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:text="@string/eyes"
+                            android:textColor="@color/text_gray_dark"
+                            android:textSize="@dimen/text_h_5"
+                            app:button_theme="1" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/margin_2"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <com.mlz.shuiguang.util.widget.TextView.NJTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/detection_time"
+                        android:textColor="@color/text_gray_dark"
+                        android:textSize="@dimen/text_h_5" />
+                </LinearLayout>
+
+
+                <!-- WHEN BUTTON GROUP -->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/margin_1"
+                    android:paddingRight="@dimen/margin_1">
+
+                    <com.mlz.shuiguang.util.widget.button.NJButton
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="false"
+                        app:button_theme="5" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/detect_bar_h"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:layout_centerVertical="true">
+
+
+                        <com.mlz.shuiguang.util.widget.button.NJButton
+                            android:id="@+id/preNursingButton"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:text="@string/pre_nursing"
+                            android:textColor="@color/text_gray_dark"
+                            android:textSize="@dimen/text_h_5"
+                            app:button_theme="1" />
+
+                        <com.mlz.shuiguang.util.widget.button.NJButton
+                            android:id="@+id/postNursingButton"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:text="@string/post_nursing"
+                            android:textColor="@color/text_gray_dark"
+                            android:textSize="@dimen/text_h_5"
+                            app:button_theme="1" />
+
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+                <!-- end of WHEN BUTTON GROUP -->
+
+                <!-- WATER WAVE VIEW -->
+                <RelativeLayout
+                    android:layout_width="@dimen/wave_meter_w"
+                    android:layout_height="@dimen/wave_meter_w"
+                    android:layout_marginTop="@dimen/margin_2">
+
+                    <com.mlz.shuiguang.util.widget.wave.WaveView
+                        android:id="@+id/wave"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:elevation="@dimen/elevation_1" />
+
+                    <com.mlz.shuiguang.util.widget.TextView.NJTextView
+                        android:id="@+id/water_level_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:textColor="@color/text_gray_dark"
+                        android:textSize="@dimen/text_h_0"
+                        android:textStyle="italic|bold"
+                        android:visibility="gone"/>
+
+
+                    <com.mlz.shuiguang.util.widget.TextView.NJTextView
+                        android:id="@+id/bluetooth_status_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:textColor="@color/text_gray_dark"
+                        android:textSize="@dimen/text_h_4"
+                        android:text="bluetooth status:"
+                        android:visibility="gone"
+                        android:gravity="center"/>
+
+
+                    <com.mlz.shuiguang.util.widget.button.NJButton
+                        android:id="@+id/start_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="@dimen/margin_3"
+                        android:elevation="@dimen/elevation_1"
+                        android:text="@string/start"
+                        android:textColor="@color/text_gray_dark"
+                        android:textSize="@dimen/text_h_1"
+                        app:button_theme="4" />
+
+                </RelativeLayout>
+
+                <!-- end of WATER WAVE VIEW -->
+
+                <com.mlz.shuiguang.util.widget.TextView.NJTextView
+                    android:id="@+id/detection_record"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text=""
+                    android:textColor="@color/text_gray_dark"
+                    android:textSize="@dimen/text_h_4"
+                    />
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+        <!-- bottom block area -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="12"
+            android:orientation="vertical" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+
+

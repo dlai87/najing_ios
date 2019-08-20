@@ -1,0 +1,128 @@
+apply plugin: 'com.android.application'
+
+
+
+android {
+    buildToolsVersion '26.0.1'
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.mlz.shuiguang"
+        minSdkVersion 23
+        targetSdkVersion 26
+        versionCode 21
+        versionName "1.2.5"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips", 'arm64-v8a', 'x86_64'
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    dexOptions {
+        incremental true
+    }
+    productFlavors {
+    }
+
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+    useLibrary  'org.apache.http.legacy'
+}
+
+repositories {
+    maven {
+        url "https://repo.commonsware.com.s3.amazonaws.com"
+    }
+    maven {
+        url "https://s3.amazonaws.com/repo.commonsware.com"
+    }
+    maven {
+        url "https://dl.bintray.com/alt236/maven"
+    }
+    maven {
+        url "https://jitpack.io"
+    }
+
+    maven {
+        url "https://dl.bintray.com/alt236/maven"
+    }
+    //Bmob
+    maven {
+        url "https://raw.github.com/bmob/bmob-android-sdk/master"
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+
+    compile 'com.android.support:multidex:1.0.0'
+
+    compile 'com.android.support:appcompat-v7:25.4.0'
+    compile 'com.android.support:recyclerview-v7:25.4.0'
+    compile 'com.android.support:cardview-v7:25.4.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    androidTestCompile 'junit:junit:4.12'
+    androidTestCompile 'com.android.support.test:runner:1.0.1'
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:3.0.1'
+    compile('com.amazonaws:aws-android-sdk-cognitoauth:2.6.+@aar') { transitive = true; }
+    compile 'com.amazonaws:aws-android-sdk-ddb-mapper:2.6.+'
+    compile('com.amazonaws:aws-android-sdk-mobile-client:2.6.+@aar') { transitive = true; }
+    compile 'com.amazonaws:aws-android-sdk-core:2.3.8'
+    compile 'com.amazonaws:aws-android-sdk-cognito:2.3.8'
+    compile 'com.amazonaws:aws-android-sdk-pinpoint:2.3.8'
+
+    compile('com.amazonaws:aws-android-sdk-auth-facebook:2.6.0@aar') { transitive = true; }
+    compile('com.amazonaws:aws-android-sdk-auth-google:2.6.0@aar') { transitive = true; }
+
+    // compile 'com.amazonaws:aws-android-sdk-cognito:2.+'
+    // compile 'com.amazonaws:aws-android-sdk-s3:2.+'
+    // compile 'com.amazonaws:aws-android-sdk-ddb:2.+'
+
+
+    // firebase
+    compile 'com.google.firebase:firebase-auth:11.8.0'
+    // google sdk
+    compile 'com.google.android.gms:play-services-auth:11.8.0'
+    // facebook sdk
+    compile 'com.facebook.android:facebook-android-sdk:4.23.0'
+    // wechat sdk
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
+    // http network Volley
+    compile 'com.android.volley:volley:1.1.0'
+
+    // Chart Library
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.1'
+    // Cards Library Core
+    compile 'com.github.gabrielemariotti.cards:cardslib-core:2.1.0'
+    //Optional for built-in cards
+    compile 'com.github.gabrielemariotti.cards:cardslib-cards:2.1.0'
+    //Optional for RecyclerView
+    compile 'com.github.gabrielemariotti.cards:cardslib-recyclerview:2.1.0'
+    //Optional for staggered grid view
+    compile 'com.github.gabrielemariotti.cards:cardslib-extra-staggeredgrid:2.1.0'
+    //Optional for drag and drop
+    compile 'com.github.gabrielemariotti.cards:cardslib-extra-dragdrop:2.1.0'
+    //bmob-sdk ：Bmob android SDK
+    compile 'cn.bmob.android:bmob-sdk:3.5.0'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+}
+
+
+apply plugin: 'com.google.gms.google-services'

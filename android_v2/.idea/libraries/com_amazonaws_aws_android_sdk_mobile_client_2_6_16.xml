@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.amazonaws:aws-android-sdk-mobile-client-2.6.16">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/44e3a89b7684e3471e9dc1f8e40c2b2a16f8848d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/44e3a89b7684e3471e9dc1f8e40c2b2a16f8848d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

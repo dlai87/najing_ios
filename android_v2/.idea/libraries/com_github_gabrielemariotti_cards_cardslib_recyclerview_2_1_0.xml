@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.gabrielemariotti.cards:cardslib-recyclerview-2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0beebb7103dd14d7891ea3e36f4200e8c7580dff/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0beebb7103dd14d7891ea3e36f4200e8c7580dff/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gabrielemariotti.cards/cardslib-recyclerview/2.1.0/f8628435ef07337013d97ca3ef44eafa8c5e34e8/cardslib-recyclerview-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
